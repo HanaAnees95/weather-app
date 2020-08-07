@@ -1,0 +1,26 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.card-columns {
+    padding: 2rem;
+}
+
+
+.weather-description {
+    text-transform: capitalize;
+}
+
+
+hr {
+    width: 80%;
+    background-color: white;
+}
+
+.popular-destinations {
+    padding: 20px;
+}
+
+.form-inline {
+    justify-content: center;
+}
